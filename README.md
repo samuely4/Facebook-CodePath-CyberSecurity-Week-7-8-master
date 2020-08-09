@@ -7,11 +7,11 @@
   * procedure:
     * When an image with a file name such as ```cengizhansahinsumofpwn<img src=a onerror=alert(document.cookie)>.jpg``` is uploaded and         viewed within WordPress the script code is executed:
     
-    ![picture alt](https://github.com/Samuel665/Week-7-8/blob/master/Lab%20Demo%20pic%201.png "Lab Demo")
+    ![picture alt](https://github.com/samuely4/Facebook-CodePath-CyberSecurity-Week-7-8-master/blob/master/Lab%20Demo%20pic%201.png "Lab Demo")
     
     * When viewing the attachment page, the exploit succeeded
     
-    ![picture alt](https://github.com/Samuel665/Week-7-8/blob/master/Lab%20Demo%20pic%203.PNG "Title is optional")
+    ![picture alt](https://github.com/samuely4/Facebook-CodePath-CyberSecurity-Week-7-8-master/blob/master/Lab%20Demo%20pic%203.PNG "Title is optional")
     
  ## Assignment Report:
  1. Authenticated Cross-Site Scripting (XSS) via Media File Metadata:
@@ -21,7 +21,7 @@
   * Fixed in version: 4.1.16
        
 - [x] GIF Walkthrough
-  ![picture alt](https://github.com/Samuel665/Week-7-8/blob/master/xss2.gif "Assignment-xss1")
+  ![picture alt](https://github.com/samuely4/Facebook-CodePath-CyberSecurity-Week-7-8-master/blob/master/xss2.gif "Assignment-xss1")
        
        
 - [x] Brief Overview to recreate the exploit
@@ -38,7 +38,7 @@
   * Fixed in version: 4.7.5
        
 - [x] GIF Walkthrough
-  ![picture alt](https://github.com/Samuel665/Week-7-8/blob/master/xss3.gif "Assignment-xss2")
+  ![picture alt](https://github.com/samuely4/Facebook-CodePath-CyberSecurity-Week-7-8-master/blob/master/xss3.gif "Assignment-xss2")
        
        
 - [x] Brief Overview to recreate the exploit
@@ -56,7 +56,7 @@
   * Fixed in version: 4.6.1
        
 - [x] GIF Walkthrough
-  ![picture alt](https://github.com/Samuel665/Week-7-8/blob/master/xss1.gif "Assignment-xss3")
+  ![picture alt](https://github.com/samuely4/Facebook-CodePath-CyberSecurity-Week-7-8-master/blob/master/xss1.gif "Assignment-xss3")
        
        
 - [x] Brief Overview to recreate the exploit
@@ -73,7 +73,7 @@
   * Fixed in version: 4.1.16
        
 - [x] GIF Walkthrough
-  ![picture alt](https://github.com/Samuel665/Week-7-8/blob/master/xss4.gif "Assignment-xss4")
+  ![picture alt](https://github.com/samuely4/Facebook-CodePath-CyberSecurity-Week-7-8-master/blob/master/xss4.gif "Assignment-xss4")
        
        
 - [x] Brief Overview to recreate the exploit
